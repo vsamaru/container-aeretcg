@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "vsamaru",
+  "repo": "container-aeretcg",
+  "name": "vsamaru",
+}
